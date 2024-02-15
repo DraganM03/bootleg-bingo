@@ -28,7 +28,20 @@ var vrijednost_polja = [
     "Radars broken on update",
     "No changes to RB",
     "Sparrow nerf",
-    "ARM"
+    "ARM",
+    "M10 Booker",
+    "More BR compression",
+    "XF-2A",
+    "Derby",
+    "Python 4",
+    "AIM-9X block 1",
+    "R-74M",
+    "Better RB gamemodes",
+    "F-22",
+    "F-35",
+    "F/A-18 A",
+    "Mirage 4",
+    "Mirage G"
 ];
 
 let kliknuto = new Array(25).fill('false')
