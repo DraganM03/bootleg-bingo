@@ -41,8 +41,7 @@ var vrijednost_polja = [
     "Radars broken on update",
     "No changes to RB",
     "Sparrow nerf",
-    "ARM",
-    "Max Rank Premiums"
+    "ARM"
 ];
 
 let kliknuto = new Array(25).fill('false')
